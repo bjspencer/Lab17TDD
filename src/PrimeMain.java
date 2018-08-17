@@ -6,7 +6,7 @@ public class PrimeMain {
 		Scanner scan = new Scanner(System.in);
 		int userPrime = 0;
 		String choice = "y";
-		PrimeNumber prime = new PrimeNumber();
+		
 		System.out.println("Let's locate some primes!");
 
 		System.out.println("This application will find any prime, " + "in order, from the first prime on.");
